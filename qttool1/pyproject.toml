@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "testqt1"
+name = "qttool1"
 version = "0.1.0"
 description = ""
 authors = ["labor <labor@home.com>"]
